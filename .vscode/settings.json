@@ -1,0 +1,22 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "connectString": "postgres://gfqsmyyp:SpnSYRikFyVRnUJQlCvFyxh0KZehK6sd@heffalump.db.elephantsql.com/gfqsmyyp",
+      "name": "DVD"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "connectString": "postgres://ofmremlj:LTMxIdUUL3aicgBmB42LdCTvnQdEA2q1@kashin.db.elephantsql.com/ofmremlj",
+      "name": "Movie Theatre"
+    }
+  ]
+}
